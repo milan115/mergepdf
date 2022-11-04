@@ -1,0 +1,17 @@
+{
+  "about": "Hakkında",
+  "all_rights": "Her hakkı saklıdır",
+  "contact": "Temas",
+  "privacy": "Gizlilik Politikası",
+  "terms": "şartlar ve koşullar",
+  "file_extension_error": "Geçersiz dosya uzantısı, lütfen dosyayı/dosyaları doğru uzantıyla yükleyin.",
+  "file_load_error": "PDF dosyası yüklenemedi.",
+  "page_load_error": "Sayfa yüklenemedi.",
+  "about_page_title": "Hakkında | PDF Dosyalarını Çevrimiçi Olarak Ücretsiz Olarak Birleştirin",
+  "contacts_page_title": "İletişim | PDF Dosyalarını Çevrimiçi Olarak Ücretsiz Olarak Birleştirin",
+  "description_text": "PDF dosyalarını çevrimiçi olarak birleştirmenin ve birleştirmenin bir yolunu arıyorsanız, ücretsiz bir pdf birleştirici PDFMerger'ı deneyin! Bu basit web tabanlı araç, PDF dosyalarını sınırsız ve filigran eklenmeden birleştirmenize olanak tanır.",
+  "error_page_title": "404 Hatası | PDF Dosyalarını Çevrimiçi Olarak Ücretsiz Olarak Birleştirin",
+  "index_page_title": "PDFBirleştirme | PDF Dosyalarını Çevrimiçi Olarak Ücretsiz Olarak Birleştirin",
+  "privacy_page_title": "Gizlilik Politikası | PDF Dosyalarını Çevrimiçi Olarak Ücretsiz Olarak Birleştirin",
+  "terms_page_title": "Kullanım Koşulları | PDF Dosyalarını Çevrimiçi Olarak Ücretsiz Olarak Birleştirin"
+}

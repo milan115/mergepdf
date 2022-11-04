@@ -1,0 +1,30 @@
+
+.card {
+  border: 2px solid transparent;
+  border-radius: 5px;
+}
+
+.card-dragged {
+  position: absolute;
+  transform-origin: bottom left;
+}
+
+.card-outer {
+  border: 2px solid transparent;
+  border-radius: 2px;
+}
+
+.card-inner {
+  position: relative;
+  color: #aaa;
+  font-weight: bold;
+  font-size: 24px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.card-dragged .card-inner {
+  box-shadow: 0 0px 2px rgba(0, 0, 0, 0.35);
+}

@@ -1,0 +1,17 @@
+{
+  "about": "約",
+  "all_rights": "全著作権所有",
+  "contact": "コンタクト",
+  "privacy": "プライバシーポリシー",
+  "terms": "利用規約",
+  "file_extension_error": "ファイル拡張子が無効です。正しい拡張子のファイルをアップロードしてください。",
+  "file_load_error": "PDFファイルのロードに失敗しました。",
+  "page_load_error": "ページの読み込みに失敗しました。",
+  "about_page_title": "について| PDFファイルをオンラインで無料でマージ",
+  "contacts_page_title": "お問い合わせ| PDFファイルをオンラインで無料でマージ",
+  "description_text": "オンラインでPDFファイルを結合およびマージする方法をお探しの場合は、無料のpdfコンバイナーであるPDFMergerをお試しください。このシンプルなWebベースのツールを使用すると、制限や透かしを追加せずにPDFファイルをマージできます。",
+  "error_page_title": "404エラー| PDFファイルをオンラインで無料でマージ",
+  "index_page_title": "PDFMerger | PDFファイルをオンラインで無料でマージ",
+  "privacy_page_title": "プライバシーポリシー| PDFファイルをオンラインで無料でマージ",
+  "terms_page_title": "利用規約| PDFファイルをオンラインで無料でマージ"
+}
